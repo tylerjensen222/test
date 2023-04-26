@@ -13,5 +13,3 @@ def print_pms():
 
 if __name__ == '__main__':
     print_pms()
-
-    
